@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DeepikaLakshmi4
-- 👀 I’m interested in learning new technologies amd especially intersted in web development 
+- 👀 I’m interested in learning new technologies and especially interested in web development 
 - 🌱 I’m currently learning BE.computer science
-- 💞️ I’m looking to collobrate with new people to start new projects
+- 💞️ I’m looking to collaborate with new people to start new projects
+- LinkedIn Account: https://www.linkedin.com/in/deepika-lakshmi-m-b-2a9587200/
 
 
 <!---
